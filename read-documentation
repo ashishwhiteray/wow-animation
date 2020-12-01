@@ -1,0 +1,15 @@
+Step-1____
+<link rel="stylesheet" href="assets/css/animate.css" />
+
+Step-2____
+ <div class="wow fadeInLeft" data-wow-delay="0.3s"  animation-delay: 0.3s; animation-name: fadeInLeft;"></div>
+ 
+ 
+Step-3____
+<script type="text/javascript" src="assets/js/wow.min.js"></script>
+
+
+Step-4____
+<script>
+  new WOW().init();
+</script>
